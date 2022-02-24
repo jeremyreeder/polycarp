@@ -1,4 +1,10 @@
-## About Polycarp Institute
+---
+layout: default
+title: Polycarp Institute, by Gridscout™
+permalink: /
+---
+
+# About Polycarp Institute
 
 Ordained by John the Apostle, Bishop Polycarp of Smyrna taught his disciples to
 love and trust the Lord Jesus Christ. For the crime of honoring Jesus above the
