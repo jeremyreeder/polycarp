@@ -1,4 +1,4 @@
-## Welcome to Polycarp Institute
+## About Polycarp Institute
 
 Bishop Polycarp of Smyrna, having been ordained by John the Apostle, taught his
 disciples to love and trust the Lord Jesus Christ. For the crime of honoring
